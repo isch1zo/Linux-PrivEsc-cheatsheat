@@ -1,5 +1,7 @@
 # Introduction
 
+Hi There today I published a checklist of strategies on Linux Privilege Escalation by [Tib3rius](https://www.udemy.com/share/101YYoAkoac15TRXo=/)
+
 ## Linux Privilege escalation tools :
 -	Linux Smart Enumeration (lse.sh)
 
