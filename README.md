@@ -70,7 +70,9 @@ see: ./LinEnum.sh -h
     - **strace [SUID/SGID] 2>&1 | grep -iE "open|access| no such file"**
   - /bin/sh version (notably Bash <4.2-048) export function
   - /bin/sh version (before Bash versions 4.4) SHELLOPTS
-7-	Passwords
+  
+  
+7- Passwords
   - History Files 
   - Confing Files
   - SSH Keys
