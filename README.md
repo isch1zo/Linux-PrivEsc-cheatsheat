@@ -38,7 +38,7 @@ see: ./LinEnum.sh -h
   - See the program version to check if its vulnerable <program> --version/-v
   - In Debian-like distributions check "dpkg -l | grep <program>"
   - Systems that use rpm check "rpm -qa | grep <program>" 
-  - Remember U can use Port Forwarding if it helps to exploit
+  - use "netstat -an" to display the current status of TCP and UDP connections & Remember U can use Port Forwarding if it helps to exploit
 
 3-	Weak File Permissions
   - Writable/Readable /etc/shadow
