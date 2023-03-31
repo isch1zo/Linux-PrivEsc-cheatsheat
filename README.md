@@ -80,7 +80,8 @@ see: ./LinEnum.sh -h
 8-	NFS
   -	no_root_squash
 
-
+9- Check for services/ports running inside the machine
+  - netstat -anop
 
 ## Privilege Escalation Strategy
 
